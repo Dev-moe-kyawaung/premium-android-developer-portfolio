@@ -4,11 +4,25 @@
 
 A polished, responsive portfolio website for a senior Android developer. Built with **Vite**, **TypeScript**, and modern web standards, it showcases projects, skills, and experience with a premium, professional look.
 
-**Live Demo:[https://dev-moe-kyawaung.github.io/premium-android-developer-portfolio/](hhttps://01a03287-f935-7f98-97ee-5615a12d587e.arena.site//)  
+**Live Demo:[https://dev-moe-kyawaung.github.io/premium-android-developer-portfolio/](https://01a03287-f935-7f98-97ee-5615a12d587e.arena.site/)  
 
 *(Update the URL after enabling GitHub Pages.)*
 
 ---
+
+## 🌐 Live Demo
+
+<div align="center">
+
+| 🔗 Link | 📄 Description |
+|--------|----------------|
+| **[Dev-moe-kyawaung.github.io/premium-android-developer-portfolio](https://01a03287-f935-7f98-97ee-5615a12d587e.arena.site/)** | ✅ Live Portfolio Site |
+| **[gravatar.com/moekyawaung2026](https://gravatar.com/moekyawaung2026)** | 👤 Gravatar Profile |
+| **[linkedin.com/in/moe-kyaw-aung-2653093a1](https://www.linkedin.com/in/moe-kyaw-aung-2653093a1)** | 💼 LinkedIn |
+| **[github.com/Dev-moe-kyawaung](https://github.com/Dev-moe-kyawaung/)** | 🐙 GitHub |
+
+</div>
+
 
 ## ✨ Features
 
